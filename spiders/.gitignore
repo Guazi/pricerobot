@@ -1,0 +1,14 @@
+
+pricebot/__pycache__/
+
+pricebot/amzasin\.py
+
+pricebot/amz\.py
+
+\.idea/
+
+pricebot/new\.json
+
+pricebot/pricebot/spiders/__pycache__/
+
+pricebot/pricebot/__pycache__/

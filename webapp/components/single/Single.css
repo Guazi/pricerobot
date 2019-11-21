@@ -1,0 +1,37 @@
+.title-single {
+  color: white;
+  font-family: "Monoton", cursive;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.result-list-single {
+  margin-top: 60px;
+}
+
+.m1,
+.result-list-single .m1 {
+  margin: 1rem;
+}
+
+@media all and (max-width: 1200px) {
+  .title-single {
+    text-align: left;
+  }
+
+  .result-list-single {
+    margin-top: 80px;
+  }
+}
+
+@media all and (max-width: 992px) {
+  .result-list-single {
+    margin-top: 100px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .title-single {
+    text-align: center;
+  }
+}
